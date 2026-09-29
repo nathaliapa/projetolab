@@ -1,7 +1,0 @@
-{
-  "routes": [
-    { "path": "/", "title": "Início — Projeto Lab" },
-    { "path": "/sobre", "title": "Sobre o projeto — Projeto Lab" },
-    { "path": "/contato", "title": "Contato — Projeto Lab" }
-  ]
-}
