@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Projeto Lab">
+  <rect width="64" height="64" fill="#4d6bff"/>
+  <path d="M15 15h18c9 0 14 5 14 12s-5 12-14 12h-7v10H15V15Zm11 9v7h6c3 0 5-1 5-3.5S35 24 32 24h-6Z" fill="#fff"/>
+  <path d="M40 15h9v34h-9z" fill="#ff674f"/>
+</svg>
